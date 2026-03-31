@@ -1,6 +1,12 @@
-# Kubernetes Monitoring & Alerting System
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/a98534b7-3ea8-43ac-92eb-8607707ebc73" /># Kubernetes Monitoring & Alerting System
 
 ### using Prometheus, Grafana & Slack
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Ready-blue?logo=kubernetes)
+![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange?logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-Dashboard-yellow?logo=grafana)
+![Slack](https://img.shields.io/badge/Slack-Alerts-green?logo=slack)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 ---
 
